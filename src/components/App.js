@@ -12,8 +12,7 @@ function App() {
     <div>
       <NavBar />
       <Home user={user}/>
-      <About user={user.bio}/>
-      <Links user={user}/>
+      <About user={user}/>
     </div>
   );
 }

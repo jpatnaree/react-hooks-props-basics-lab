@@ -1,4 +1,4 @@
-
+// import user from "../data/user"
 
 function Links({user}) {
     const {links} = user
