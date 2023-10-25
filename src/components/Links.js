@@ -1,7 +1,6 @@
 // import user from "../data/user"
 
-function Links({user}) {
-    const {links} = user
+function Links({links}) {
 
     return <div>
         <h3>Links</h3>
